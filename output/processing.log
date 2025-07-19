@@ -1,0 +1,42 @@
+2025-07-20 03:16:53,672 - INFO - Running in local environment. Adjusted paths:
+2025-07-20 03:16:53,672 - INFO - INPUT_DIR: c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\input
+2025-07-20 03:16:53,673 - INFO - OUTPUT_DIR: c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output
+2025-07-20 03:16:53,673 - INFO - MODEL_PATH: c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\model\heading_model.joblib
+2025-07-20 03:16:53,673 - INFO - Starting PDF outline extraction process...
+2025-07-20 03:16:58,197 - INFO - Model loaded successfully. Type: Ensemble Model
+2025-07-20 03:16:58,198 - INFO - Found 6 PDF files to process.
+2025-07-20 03:16:58,198 - INFO - Processing batch 1/1 (6 PDFs)
+2025-07-20 03:16:58,202 - INFO - Processing: E0CCG5S239.pdf (Attempt 1/4)
+2025-07-20 03:16:58,205 - INFO - Processing: E0CCG5S312.pdf (Attempt 1/4)
+2025-07-20 03:16:58,223 - INFO - Processing: E0H1CM114.pdf (Attempt 1/4)
+2025-07-20 03:16:58,238 - INFO - Processing: r_abhishek_online_tech_Dev.pdf (Attempt 1/4)
+2025-07-20 03:16:58,264 - INFO - Processing: STEMPathwaysFlyer.pdf (Attempt 1/4)
+2025-07-20 03:16:58,279 - INFO - Processing: TOPJUMP-PARTY-INVITATION-20161003-V01.pdf (Attempt 1/4)
+2025-07-20 03:16:58,314 - INFO - PDF optimized for faster processing: E0CCG5S239.pdf
+2025-07-20 03:16:58,351 - INFO - PDF optimized for faster processing: r_abhishek_online_tech_Dev.pdf
+2025-07-20 03:16:58,451 - INFO - PDF optimized for faster processing: E0H1CM114.pdf
+2025-07-20 03:16:58,515 - INFO - PDF optimized for faster processing: E0CCG5S312.pdf
+2025-07-20 03:16:58,723 - INFO - Feature extraction completed in 0.48 seconds. Found 14 text blocks.
+2025-07-20 03:16:58,738 - INFO - PDF optimized for faster processing: STEMPathwaysFlyer.pdf
+2025-07-20 03:16:58,758 - INFO - Feature extraction completed in 0.56 seconds. Found 33 text blocks.
+2025-07-20 03:16:58,940 - INFO - PDF optimized for faster processing: TOPJUMP-PARTY-INVITATION-20161003-V01.pdf
+2025-07-20 03:16:59,087 - INFO - Feature extraction completed in 0.86 seconds. Found 169 text blocks.
+2025-07-20 03:16:59,349 - INFO - Feature extraction completed in 1.14 seconds. Found 136 text blocks.
+2025-07-20 03:16:59,355 - INFO - Feature extraction completed in 1.08 seconds. Found 6 text blocks.
+2025-07-20 03:16:59,693 - INFO - Feature extraction completed in 1.43 seconds. Found 27 text blocks.
+2025-07-20 03:17:00,399 - INFO - Heading prediction completed in 0.93 seconds. Found 1 headings.
+2025-07-20 03:17:00,413 - INFO - Successfully processed TOPJUMP-PARTY-INVITATION-20161003-V01.pdf in 2.13 seconds. Output saved to c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output\TOPJUMP-PARTY-INVITATION-20161003-V01.json
+2025-07-20 03:17:01,301 - INFO - Heading prediction completed in 2.52 seconds. Found 0 headings.
+2025-07-20 03:17:01,356 - INFO - Successfully processed r_abhishek_online_tech_Dev.pdf in 3.12 seconds. Output saved to c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output\r_abhishek_online_tech_Dev.json
+2025-07-20 03:17:03,351 - INFO - Heading prediction completed in 3.65 seconds. Found 9 headings.
+2025-07-20 03:17:03,438 - INFO - Successfully processed STEMPathwaysFlyer.pdf in 5.17 seconds. Output saved to c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output\STEMPathwaysFlyer.json
+2025-07-20 03:17:03,443 - INFO - Heading prediction completed in 4.56 seconds. Found 17 headings.
+2025-07-20 03:17:03,596 - INFO - Successfully processed E0CCG5S239.pdf in 5.39 seconds. Output saved to c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output\E0CCG5S239.json
+2025-07-20 03:17:06,151 - INFO - Heading prediction completed in 6.79 seconds. Found 18 headings.
+2025-07-20 03:17:06,177 - INFO - Successfully processed E0CCG5S312.pdf in 7.97 seconds. Output saved to c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output\E0CCG5S312.json
+2025-07-20 03:17:06,698 - INFO - Heading prediction completed in 7.57 seconds. Found 41 headings.
+2025-07-20 03:17:06,701 - INFO - Successfully processed E0H1CM114.pdf in 8.48 seconds. Output saved to c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output\E0H1CM114.json
+2025-07-20 03:17:06,951 - INFO - Completed batch 1. Progress: 6/6 PDFs processed.
+2025-07-20 03:17:07,042 - INFO - Processing complete! Processed 6 PDFs successfully in 13.37 seconds.
+2025-07-20 03:17:07,042 - INFO - Summary report saved to c:\Users\Dell\OneDrive\Desktop\Adobe 1A Challange\output\processing_summary.json
+2025-07-20 03:17:07,079 - INFO - Cleaned up temporary directory: C:\Users\Dell\AppData\Local\Temp\pdf_processing

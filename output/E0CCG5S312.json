@@ -1,0 +1,303 @@
+{
+    "metadata": {
+        "filename": "E0CCG5S312.pdf",
+        "processed_at": "2025-07-20T03:17:06.156039",
+        "processing_time_seconds": 7.950820684432983,
+        "blocks_analyzed": 136,
+        "headings_found": 18,
+        "confidence_score": 1.16
+    },
+    "title": "Foundation Level Extensions",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Overview",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "International Software Testing Qualifications Board",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Revision History",
+            "page": 3
+        },
+        {
+            "level": "H2",
+            "text": "..........................................................................................................................................",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "........................................................................................................................................",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "............................................................................",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "...............................................................",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": ".........................................",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "..........................................................................................................................................",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Table of Contents",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Revision History  3",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "4.  References  12",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "Table of Contents  4",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "1.  Introduction to the Foundation Level Extensions  6",
+            "page": 4
+        },
+        {
+            "level": "H1",
+            "text": "1.  Introduction to the Foundation Level Extensions",
+            "page": 6
+        },
+        {
+            "level": "H1",
+            "text": "2.  Introduction to Foundation Level Agile Tester Extension",
+            "page": 7
+        },
+        {
+            "level": "H2",
+            "text": "Syllabus  Days",
+            "page": 8
+        },
+        {
+            "level": "H1",
+            "text": "3.  Overview of the Foundation Level Extension –   Agile Tester Syllabus",
+            "page": 10
+        }
+    ],
+    "hierarchical_outline": [
+        {
+            "level": "H1",
+            "text": "Overview",
+            "page": 1,
+            "children": []
+        },
+        {
+            "level": "H1",
+            "text": "International Software Testing Qualifications Board",
+            "page": 1,
+            "children": [
+                {
+                    "level": "H2",
+                    "text": "Revision History",
+                    "page": 3,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "..........................................................................................................................................",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "........................................................................................................................................",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "............................................................................",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "...............................................................",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": ".........................................",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "..........................................................................................................................................",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "Table of Contents",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "Revision History  3",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "4.  References  12",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "Table of Contents  4",
+                    "page": 4,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "1.  Introduction to the Foundation Level Extensions  6",
+                    "page": 4,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "level": "H1",
+            "text": "1.  Introduction to the Foundation Level Extensions",
+            "page": 6,
+            "children": []
+        },
+        {
+            "level": "H1",
+            "text": "2.  Introduction to Foundation Level Agile Tester Extension",
+            "page": 7,
+            "children": [
+                {
+                    "level": "H2",
+                    "text": "Syllabus  Days",
+                    "page": 8,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "level": "H1",
+            "text": "3.  Overview of the Foundation Level Extension –   Agile Tester Syllabus",
+            "page": 10,
+            "children": []
+        }
+    ],
+    "outline_by_page": {
+        "1": [
+            {
+                "level": "H1",
+                "text": "Overview"
+            },
+            {
+                "level": "H1",
+                "text": "International Software Testing Qualifications Board"
+            }
+        ],
+        "3": [
+            {
+                "level": "H2",
+                "text": "Revision History"
+            }
+        ],
+        "4": [
+            {
+                "level": "H2",
+                "text": ".........................................................................................................................................."
+            },
+            {
+                "level": "H2",
+                "text": "........................................................................................................................................"
+            },
+            {
+                "level": "H2",
+                "text": "............................................................................"
+            },
+            {
+                "level": "H2",
+                "text": "..............................................................."
+            },
+            {
+                "level": "H2",
+                "text": "........................................."
+            },
+            {
+                "level": "H2",
+                "text": ".........................................................................................................................................."
+            },
+            {
+                "level": "H2",
+                "text": "Table of Contents"
+            },
+            {
+                "level": "H2",
+                "text": "Revision History  3"
+            },
+            {
+                "level": "H2",
+                "text": "4.  References  12"
+            },
+            {
+                "level": "H2",
+                "text": "Table of Contents  4"
+            },
+            {
+                "level": "H2",
+                "text": "1.  Introduction to the Foundation Level Extensions  6"
+            }
+        ],
+        "6": [
+            {
+                "level": "H1",
+                "text": "1.  Introduction to the Foundation Level Extensions"
+            }
+        ],
+        "7": [
+            {
+                "level": "H1",
+                "text": "2.  Introduction to Foundation Level Agile Tester Extension"
+            }
+        ],
+        "8": [
+            {
+                "level": "H2",
+                "text": "Syllabus  Days"
+            }
+        ],
+        "10": [
+            {
+                "level": "H1",
+                "text": "3.  Overview of the Foundation Level Extension –   Agile Tester Syllabus"
+            }
+        ]
+    }
+}

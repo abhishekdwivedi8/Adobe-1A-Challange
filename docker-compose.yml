@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  pdf-heading-extractor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+    network_mode: none

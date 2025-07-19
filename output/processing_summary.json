@@ -1,0 +1,54 @@
+{
+    "execution_summary": {
+        "timestamp": "2025-07-20T03:17:07.041173",
+        "total_pdfs_processed": 6,
+        "successful": 6,
+        "failed": 0,
+        "total_processing_time": 13.367729425430298,
+        "average_processing_time": 2.227954904238383
+    },
+    "processed_files": [
+        {
+            "filename": "TOPJUMP-PARTY-INVITATION-20161003-V01.pdf",
+            "title": "WWW.TOPJUMP.COM",
+            "headings": 1,
+            "processing_time": 2.1339495182037354,
+            "confidence": 0.84
+        },
+        {
+            "filename": "r_abhishek_online_tech_Dev.pdf",
+            "title": "Abhishek Dwivedi                             +91 9026019016 |  abhishek.dwivedi2022@glbajajgroup.org  |  Portfolio  |  Linkedin  |  GitHub          Professional Summary",
+            "headings": 0,
+            "processing_time": 3.1178553104400635,
+            "confidence": 0
+        },
+        {
+            "filename": "STEMPathwaysFlyer.pdf",
+            "title": "Parsippany -Troy Hills STEM Pathways",
+            "headings": 9,
+            "processing_time": 5.174120664596558,
+            "confidence": 1.19
+        },
+        {
+            "filename": "E0CCG5S239.pdf",
+            "title": "Untitled Document",
+            "headings": 17,
+            "processing_time": 5.393827438354492,
+            "confidence": 0.91
+        },
+        {
+            "filename": "E0CCG5S312.pdf",
+            "title": "Foundation Level Extensions",
+            "headings": 18,
+            "processing_time": 7.972028732299805,
+            "confidence": 1.16
+        },
+        {
+            "filename": "E0H1CM114.pdf",
+            "title": "RFP: R RFP: R RFP: R RFP: Request f quest f quest f quest for Pr r Pr r Pr r Proposal oposal  oposal oposal",
+            "headings": 41,
+            "processing_time": 8.477166414260864,
+            "confidence": 0.89
+        }
+    ]
+}

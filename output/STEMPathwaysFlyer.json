@@ -1,0 +1,158 @@
+{
+    "metadata": {
+        "filename": "STEMPathwaysFlyer.pdf",
+        "processed_at": "2025-07-20T03:17:03.361854",
+        "processing_time_seconds": 5.097844362258911,
+        "blocks_analyzed": 27,
+        "headings_found": 9,
+        "confidence_score": 1.19
+    },
+    "title": "Parsippany -Troy Hills STEM Pathways",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "PATHWAY OPTIONS",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "REGULAR PATHWAY",
+            "page": 1
+        },
+        {
+            "level": "H1",
+            "text": "Elective Course Offerings",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "What Colleges Say!",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Science Math Computer Science/  Technology",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "Art Applied  Technology/  Family Consumer  Science and Other",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "***AP  Captsone -  Seminar and  Research w/  advisor  approval",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "For more information and our application please visit our website by clicking  here .",
+            "page": 2
+        },
+        {
+            "level": "H2",
+            "text": "When asked the question,   “Would participation in the  STEM Pathways set PTHSD students apart when applying  to your school?”,  colleges responded with the following:",
+            "page": 2
+        }
+    ],
+    "hierarchical_outline": [
+        {
+            "level": "H1",
+            "text": "PATHWAY OPTIONS",
+            "page": 1,
+            "children": [
+                {
+                    "level": "H2",
+                    "text": "REGULAR PATHWAY",
+                    "page": 1,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "level": "H1",
+            "text": "Elective Course Offerings",
+            "page": 2,
+            "children": []
+        },
+        {
+            "level": "H1",
+            "text": "What Colleges Say!",
+            "page": 2,
+            "children": [
+                {
+                    "level": "H2",
+                    "text": "Science Math Computer Science/  Technology",
+                    "page": 2,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "Art Applied  Technology/  Family Consumer  Science and Other",
+                    "page": 2,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "***AP  Captsone -  Seminar and  Research w/  advisor  approval",
+                    "page": 2,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "For more information and our application please visit our website by clicking  here .",
+                    "page": 2,
+                    "children": []
+                },
+                {
+                    "level": "H2",
+                    "text": "When asked the question,   “Would participation in the  STEM Pathways set PTHSD students apart when applying  to your school?”,  colleges responded with the following:",
+                    "page": 2,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "outline_by_page": {
+        "1": [
+            {
+                "level": "H1",
+                "text": "PATHWAY OPTIONS"
+            },
+            {
+                "level": "H2",
+                "text": "REGULAR PATHWAY"
+            }
+        ],
+        "2": [
+            {
+                "level": "H1",
+                "text": "Elective Course Offerings"
+            },
+            {
+                "level": "H1",
+                "text": "What Colleges Say!"
+            },
+            {
+                "level": "H2",
+                "text": "Science Math Computer Science/  Technology"
+            },
+            {
+                "level": "H2",
+                "text": "Art Applied  Technology/  Family Consumer  Science and Other"
+            },
+            {
+                "level": "H2",
+                "text": "***AP  Captsone -  Seminar and  Research w/  advisor  approval"
+            },
+            {
+                "level": "H2",
+                "text": "For more information and our application please visit our website by clicking  here ."
+            },
+            {
+                "level": "H2",
+                "text": "When asked the question,   “Would participation in the  STEM Pathways set PTHSD students apart when applying  to your school?”,  colleges responded with the following:"
+            }
+        ]
+    }
+}
